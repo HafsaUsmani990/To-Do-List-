@@ -15,7 +15,7 @@ body{
     color: #ffffff;
 }
 .container{
-    border:5px solid #63CCCA;
+    border:1px solid grey;
     backdrop-filter: blur(1px);
     width: 400px;
     padding: 20px;
@@ -32,7 +32,7 @@ body{
 input{
     flex: 1;
     width: 100%;
-    background-color: #63CCCA;
+    background-color: #3C5F64;
     color: #ffffff;
     padding: 15px;
     border: none;
@@ -48,7 +48,7 @@ input:focus{
     outline: 2px solid #ffffff;
 }
 button{
-    background-color: #4EA099;
+    background-color: #3C5F64;
     padding: 10px 10px;
     font-size: 16px;
     font-weight: 600;
@@ -72,7 +72,7 @@ button:hover{
     align-items: center;
     margin: 10px;
     padding: 20px;
-    background-color: #63CCCA;
+    background-color: #3C5F64;
     border-radius: 10px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
@@ -88,6 +88,6 @@ button:hover{
     cursor: pointer;
 }
 .deletebtn{
-    background-color: #4EA099;
+    background-color: #3C5F64;
     cursor: pointer;
 }
